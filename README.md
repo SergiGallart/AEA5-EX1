@@ -1,1 +1,1 @@
-Benvnguts a Git-Sergi Gallart
+Benvinguts a Git-Sergi Gallart
